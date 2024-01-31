@@ -3,7 +3,7 @@ node_modules/
 dist/
 mongo-test/
 postgres-test/
-mongo/
+/mongo
 postgres/
 mongo-test/
 postgres-test/

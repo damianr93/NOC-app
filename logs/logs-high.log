@@ -11,3 +11,9 @@
 {"level":"high","message":"http://gdefefoogle.com is not ok. TypeError: fetch failed","createAt":"2024-01-31T14:27:22.904Z","origin":"check-service.ts"}
 {"level":"high","message":"http://gdefefoogle.com is not ok. TypeError: fetch failed","createAt":"2024-01-31T14:27:27.101Z","origin":"check-service.ts"}
 {"level":"high","message":"http://gdefefoogle.com is not ok. TypeError: fetch failed","createAt":"2024-01-31T14:27:30.064Z","origin":"check-service.ts"}
+{"level":"high","message":"URL A MONITOREAR is not ok. TypeError: Failed to parse URL from URL A MONITOREAR","createAt":"2024-01-31T17:17:05.068Z","origin":"check-service.ts"}
+{"level":"high","message":"URL A MONITOREAR is not ok. TypeError: Failed to parse URL from URL A MONITOREAR","createAt":"2024-01-31T17:17:10.006Z","origin":"check-service.ts"}
+{"level":"high","message":"URL A MONITOREAR is not ok. TypeError: Failed to parse URL from URL A MONITOREAR","createAt":"2024-01-31T17:17:15.006Z","origin":"check-service.ts"}
+{"level":"high","message":"URL A MONITOREAR is not ok. TypeError: Failed to parse URL from URL A MONITOREAR","createAt":"2024-01-31T17:17:20.006Z","origin":"check-service.ts"}
+{"level":"high","message":"URL A MONITOREAR is not ok. TypeError: Failed to parse URL from URL A MONITOREAR","createAt":"2024-01-31T17:17:25.004Z","origin":"check-service.ts"}
+{"level":"high","message":"URL A MONITOREAR is not ok. TypeError: Failed to parse URL from URL A MONITOREAR","createAt":"2024-01-31T17:17:30.011Z","origin":"check-service.ts"}
