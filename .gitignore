@@ -1,0 +1,13 @@
+# Ignorar carpetas y sus contenidos
+node_modules/
+dist/
+mongo-test/
+postgres-test/
+mongo/
+postgres/
+mongo-test/
+postgres-test/
+
+# Ignorar archivos específicos
+.DS_Store
+.env
